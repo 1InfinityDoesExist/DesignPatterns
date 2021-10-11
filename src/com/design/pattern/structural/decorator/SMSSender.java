@@ -1,4 +1,4 @@
-package com.design.pattern.structural.decorator_and_adapter;
+package com.design.pattern.structural.decorator;
 
 public class SMSSender implements NotificationSender {
 
